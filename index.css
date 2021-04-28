@@ -1,0 +1,33 @@
+#container{
+    width: 31%;
+    height: 100%;
+    padding: 100px;
+    border: 1px solid grey;
+    position: relative;
+
+}
+#inside{
+    width: 19%;
+    padding: 10px;
+    background-color: red;
+    height: 50px;
+    position: absolute;
+    left: 0;
+}
+#container2{
+    width: 29.5%;
+    height: 100%;
+    padding: 100px;
+    border: 1px solid grey;
+    position: relative;
+    margin-top: 20px;
+
+}
+#inside2{
+    width: 10%;
+    padding: 10px;
+    background-color: red;
+    height: 50px;
+    position: absolute;
+    top: 0;
+}
